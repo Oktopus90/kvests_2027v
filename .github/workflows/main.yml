@@ -38,4 +38,4 @@ jobs:
          message: Выгрузка детских работ и проверка на PEP8 начата
          photo: tests/github.png
          document: tests/pep.txt
-         message_file: requirements.txt
+         
