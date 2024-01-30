@@ -16,6 +16,7 @@ jobs:
          to: ${{ secrets.TELEGRAM_TO }} 
          token: ${{ secrets.TELEGRAM_TOKEN }}
          message: Выгрузка детских работ и проверка на PEP8 начата
+         message_file: main.py
 
   tests:
     runs-on: ubuntu-latest
