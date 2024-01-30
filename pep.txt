@@ -1,0 +1,380 @@
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:10:80: E501 line too long (106 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:50:80: E501 line too long (89 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:78:80: E501 line too long (87 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:81:80: E501 line too long (84 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:228:80: E501 line too long (86 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:237:80: E501 line too long (110 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:243:80: E501 line too long (88 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:246:80: E501 line too long (100 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:256:80: E501 line too long (107 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:259:80: E501 line too long (115 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:270:80: E501 line too long (113 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:288:80: E501 line too long (80 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:320:80: E501 line too long (109 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:323:80: E501 line too long (99 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:334:80: E501 line too long (91 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:336:80: E501 line too long (91 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:337:80: E501 line too long (80 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:352:80: E501 line too long (102 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:353:80: E501 line too long (86 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:369:80: E501 line too long (81 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:370:80: E501 line too long (80 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:375:80: E501 line too long (80 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:386:80: E501 line too long (94 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:388:80: E501 line too long (114 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:389:80: E501 line too long (106 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:390:80: E501 line too long (98 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:396:80: E501 line too long (81 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:399:80: E501 line too long (95 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:416:80: E501 line too long (98 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:418:80: E501 line too long (118 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:419:80: E501 line too long (110 > 79 characters)
+works/.\works\2131_20240130 14_00\TextQuest-heads-main\CodeTextQuest.py:420:80: E501 line too long (102 > 79 characters)
+works/.\works\3327_20240130 14_00\Text-Kvest-heads-main\_Kovalev_Text_Quast_V2.py:29:3: E111 indentation is not a multiple of 4
+works/.\works\3327_20240130 14_00\Text-Kvest-heads-main\_Kovalev_Text_Quast_V2.py:30:3: E111 indentation is not a multiple of 4
+works/.\works\3327_20240130 14_00\Text-Kvest-heads-main\_Kovalev_Text_Quast_V2.py:31:3: E111 indentation is not a multiple of 4
+works/.\works\3327_20240130 14_00\Text-Kvest-heads-main\_Kovalev_Text_Quast_V2.py:32:3: E111 indentation is not a multiple of 4
+works/.\works\3327_20240130 14_00\Text-Kvest-heads-main\_Kovalev_Text_Quast_V2.py:33:3: E111 indentation is not a multiple of 4
+works/.\works\3327_20240130 14_00\Text-Kvest-heads-main\_Kovalev_Text_Quast_V2.py:34:3: E111 indentation is not a multiple of 4
+works/.\works\3583_20240130 14_00\Quest-heads-main\programokay.py:4:80: E501 line too long (82 > 79 characters)
+works/.\works\3583_20240130 14_00\Quest-heads-main\programokay.py:49:80: E501 line too long (84 > 79 characters)
+works/.\works\3583_20240130 14_00\Quest-heads-main\programokay.py:87:80: E501 line too long (84 > 79 characters)
+works/.\works\3583_20240130 14_00\Quest-heads-main\programokay.py:101:80: E501 line too long (81 > 79 characters)
+works/.\works\3583_20240130 14_00\Quest-heads-main\programokay.py:129:80: E501 line too long (83 > 79 characters)
+works/.\works\3583_20240130 14_00\Quest-heads-main\programokay.py:136:80: E501 line too long (85 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:3:80: E501 line too long (115 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:4:80: E501 line too long (126 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:6:80: E501 line too long (394 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:6:395: W291 trailing whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:7:80: E501 line too long (84 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:8:80: E501 line too long (187 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:10:80: E501 line too long (91 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:12:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:16:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:23:80: E501 line too long (176 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:25:80: E501 line too long (135 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:26:80: E501 line too long (133 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:26:134: W291 trailing whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:28:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:33:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:43:80: E501 line too long (98 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:48:80: E501 line too long (85 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:49:80: E501 line too long (125 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:50:80: E501 line too long (111 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:58:80: E501 line too long (91 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:59:80: E501 line too long (215 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:60:80: E501 line too long (143 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:62:80: E501 line too long (83 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:67:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:70:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:70:7: E117 over-indented
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:71:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:72:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:72:80: E501 line too long (98 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:73:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:75:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:75:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:76:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:77:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:78:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:79:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:79:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:81:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:82:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:83:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:84:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:85:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:86:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:87:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:88:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:89:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:89:80: E501 line too long (95 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:90:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:92:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:92:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:93:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:94:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:95:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:96:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:96:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:97:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:98:7: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:99:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:100:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:100:80: E501 line too long (88 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:101:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:101:80: E501 line too long (88 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:102:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:102:80: E501 line too long (90 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:103:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:103:80: E501 line too long (146 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:104:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:105:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:106:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:106:80: E501 line too long (88 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:107:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:108:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:109:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:110:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:110:80: E501 line too long (88 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:111:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:112:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:113:15: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:114:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:115:15: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:116:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:116:80: E501 line too long (83 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:117:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:117:80: E501 line too long (84 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:118:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:119:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:119:80: E501 line too long (113 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:120:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:121:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:121:80: E501 line too long (129 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:122:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:122:80: E501 line too long (104 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:123:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:123:80: E501 line too long (123 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:125:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:125:80: E501 line too long (88 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:126:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:127:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:128:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:129:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:129:80: E501 line too long (88 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:130:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:131:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:132:15: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:133:11: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:134:15: E111 indentation is not a multiple of 4
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:135:1: W293 blank line contains whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:136:1: W293 blank line contains whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:139:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:140:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:141:80: E501 line too long (84 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:142:80: E501 line too long (140 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:146:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:150:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:158:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:162:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:167:80: E501 line too long (100 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:170:80: E501 line too long (84 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:174:80: E501 line too long (84 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:183:80: E501 line too long (107 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:185:80: E501 line too long (123 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:186:80: E501 line too long (98 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:187:80: E501 line too long (117 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:189:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:193:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:201:80: E501 line too long (107 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:203:80: E501 line too long (123 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:204:80: E501 line too long (98 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:205:80: E501 line too long (117 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:207:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:211:80: E501 line too long (82 > 79 characters)
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:217:1: W293 blank line contains whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:218:1: W293 blank line contains whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:219:1: W293 blank line contains whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:220:1: W293 blank line contains whitespace
+works/.\works\4512_20240130 14_00\kvest-heads-main\kvest_detektiv.py:221:1: W293 blank line contains whitespace
+works/.\works\4746_20240130 14_00\klad-heads-main\kvest.py:6:14: E999 SyntaxError: invalid syntax
+works/.\works\4825_20240130 14_00\Quest-heads-main\quest.py:37:18: W292 no newline at end of file
+works/.\works\4825_20240130 14_00\Quest-heads-main\quest2.py:9:80: E501 line too long (80 > 79 characters)
+works/.\works\4825_20240130 14_00\Quest-heads-main\quest2.py:53:80: E501 line too long (82 > 79 characters)
+works/.\works\4825_20240130 14_00\Quest-heads-main\quest2.py:57:80: E501 line too long (101 > 79 characters)
+works/.\works\4825_20240130 14_00\Quest-heads-main\quest2.py:79:13: E741 ambiguous variable name 'l'
+works/.\works\4825_20240130 14_00\Quest-heads-main\quest2.py:115:47: W292 no newline at end of file
+works/.\works\6222_20240130 14_00\thequest-heads-main\1234.py:68:145: E999 SyntaxError: EOL while scanning string literal
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:168:53: W291 trailing whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:177:57: W291 trailing whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:212:1: W293 blank line contains whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:237:1: W293 blank line contains whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:270:1: W293 blank line contains whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:272:19: E128 continuation line under-indented for visual indent
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:274:19: E128 continuation line under-indented for visual indent
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:295:15: E127 continuation line over-indented for visual indent
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:309:1: W293 blank line contains whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:324:80: E501 line too long (97 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:326:80: E501 line too long (101 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:328:80: E501 line too long (97 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:330:80: E501 line too long (93 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:332:80: E501 line too long (97 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:334:80: E501 line too long (93 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:336:80: E501 line too long (97 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:338:80: E501 line too long (93 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:340:36: W291 trailing whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:372:1: W293 blank line contains whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:373:1: E302 expected 2 blank lines, found 1
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:392:30: W291 trailing whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:434:80: E501 line too long (85 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:479:80: E501 line too long (83 > 79 characters)
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:616:1: W293 blank line contains whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:618:68: W291 trailing whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:620:1: W293 blank line contains whitespace
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:632:11: E127 continuation line over-indented for visual indent
+works/.\works\6555_20240130 14_00\Your-Way-heads-main\yourway.py:635:1: W293 blank line contains whitespace
+works/.\works\6752_20240130 14_00\kvesst-heads-main\detectivmurlok.py:84:20: E999 IndentationError: expected an indented block
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:3:80: E501 line too long (181 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:4:80: E501 line too long (81 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:5:9: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:5:14: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:10:80: E501 line too long (91 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:11:80: E501 line too long (151 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:11:152: W291 trailing whitespace
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:13:10: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:13:10: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:13:12: E271 multiple spaces after keyword
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:13:20: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:13:25: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:14:14: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:14:80: E501 line too long (88 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:15:14: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:15:80: E501 line too long (88 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:16:14: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:16:80: E501 line too long (88 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:17:10: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:17:21: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:17:26: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:18:16: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:18:16: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:18:80: E501 line too long (90 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:19:16: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:19:80: E501 line too long (88 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:20:16: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:20:80: E501 line too long (138 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:21:16: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:21:80: E501 line too long (90 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:22:10: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:22:21: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:22:27: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:23:17: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:23:80: E501 line too long (91 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:24:80: E501 line too long (143 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:25:80: E501 line too long (91 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:26:10: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:26:80: E501 line too long (156 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:28:14: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:28:19: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:30:80: E501 line too long (120 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:32:14: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:32:14: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:32:16: E271 multiple spaces after keyword
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:32:24: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:32:29: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:33:19: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:33:19: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:33:80: E501 line too long (93 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:34:19: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:34:80: E501 line too long (128 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:35:19: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:35:80: E501 line too long (93 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:36:14: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:36:18: E271 multiple spaces after keyword
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:36:26: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:36:31: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:37:20: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:37:20: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:37:80: E501 line too long (94 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:38:20: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:38:80: E501 line too long (121 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:39:20: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:39:80: E501 line too long (94 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:40:14: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:40:18: E271 multiple spaces after keyword
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:40:26: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:40:31: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:41:20: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:41:20: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:41:80: E501 line too long (94 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:42:20: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:42:80: E501 line too long (103 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:43:20: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:43:80: E501 line too long (94 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:44:14: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:44:80: E501 line too long (124 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:45:80: E501 line too long (89 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:46:17: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:46:22: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:48:80: E501 line too long (147 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:49:33: W291 trailing whitespace
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:50:18: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:50:18: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:50:20: E271 multiple spaces after keyword
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:50:28: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:50:33: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:51:23: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:51:23: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:51:80: E501 line too long (97 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:52:23: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:53:23: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:53:80: E501 line too long (97 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:54:18: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:54:22: E271 multiple spaces after keyword
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:54:30: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:54:35: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:55:23: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:55:23: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:55:80: E501 line too long (97 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:56:23: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:56:80: E501 line too long (110 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:57:23: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:57:80: E501 line too long (97 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:58:18: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:58:80: E501 line too long (152 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:58:153: W291 trailing whitespace
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:59:19: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:59:24: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:60:15: E111 indentation is not a multiple of 4
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:60:15: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:60:80: E501 line too long (132 > 79 characters)
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:61:16: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:61:21: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:62:54: W291 trailing whitespace
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:63:11: E225 missing whitespace around operator
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:63:16: E203 whitespace before ':'
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:64:9: E117 over-indented
+works/.\works\6752_20240130 14_00\kvesst-heads-main\детектив мурлок.py:65:1: W293 blank line contains whitespace
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:9:13: W291 trailing whitespace
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:11:20: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:13:24: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:15:28: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:33:43: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:35:43: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:37:26: E211 whitespace before '('
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:44:35: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:47:30: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:49:45: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:52:39: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:58:39: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:61:26: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:63:28: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:72:35: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:76:31: F821 undefined name 'end'
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:76:37: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:79:30: E262 inline comment should start with '# '
+works/.\works\7013_20240130 14_00\quest-sch-or-game-heads-main\quest.py:81:22: E262 inline comment should start with '# '
+works/.\works\8066_20240130 14_00\kvest-heads-main\kvest-dom.py:78:80: E501 line too long (81 > 79 characters)
+works/.\works\8066_20240130 14_00\kvest-heads-main\kvest-dom.py:94:80: E501 line too long (86 > 79 characters)
+works/.\works\8066_20240130 14_00\kvest-heads-main\kvest-dom.py:101:80: E501 line too long (81 > 79 characters)
+works/.\works\8066_20240130 14_00\kvest-heads-main\kvest-dom.py:155:1: W293 blank line contains whitespace
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:3:80: E501 line too long (110 > 79 characters)
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:11:1: E302 expected 2 blank lines, found 1
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:12:11: F823 local variable 'lives' defined in enclosing scope on line 9 referenced before assignment
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:21:80: E501 line too long (109 > 79 characters)
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:27:80: E501 line too long (103 > 79 characters)
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:49:13: F841 local variable 'lives' is assigned to but never used
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:91:80: E501 line too long (87 > 79 characters)
+works/.\works\8375_20240130 14_00\Tekst_play-heads-main\kod_game.py:97:1: E303 too many blank lines (3)
+works/.\works\8525_20240130 14_00\cuest_for_class-heads-main\buhf.py:12:80: E501 line too long (132 > 79 characters)
+works/.\works\8525_20240130 14_00\cuest_for_class-heads-main\buhf.py:20:80: E501 line too long (92 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:1:80: E501 line too long (220 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:2:80: E501 line too long (114 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:7:80: E501 line too long (88 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:9:80: E501 line too long (129 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:10:80: E501 line too long (81 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:17:80: E501 line too long (112 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:19:80: E501 line too long (100 > 79 characters)
+works/.\works\9165_20240130 14_00\progect2-heads-main\квест1.py:20:80: E501 line too long (83 > 79 characters)
+works/.\works\9676_20240130 14_00\kvest1-heads-main\kvest.py:22:1: E999 IndentationError: expected an indented block
+works/.\works\9676_20240130 14_00\kvest1-heads-main\main.py:22:1: E999 IndentationError: expected an indented block
