@@ -23,7 +23,7 @@ jobs:
          pip install -r requirements.txt 
      - name: Test with flake8
        run: |
-         python -m flake8 > pep.txt
+         python -m flake8 > tests/pep.txt
   send_message:
     runs-on: ubuntu-latest
     if: ${{always()}}
@@ -37,4 +37,5 @@ jobs:
          token: ${{ secrets.TELEGRAM_TOKEN }}
          message: Выгрузка детских работ и проверка на PEP8 начата
          photo: tests/github.png
-         document: tests/gophercolor.png
+         document: tests/pep.txt
+         message_file: requirements.txt
