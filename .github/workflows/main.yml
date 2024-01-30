@@ -36,4 +36,4 @@ jobs:
          to: ${{ secrets.TELEGRAM_TO }} 
          token: ${{ secrets.TELEGRAM_TOKEN }}
          message: Выгрузка детских работ и проверка на PEP8 начата
-         message_file: /github/workspace/pep.txt
+         message_file: tests/pep.txt
