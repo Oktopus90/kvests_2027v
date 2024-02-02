@@ -38,7 +38,7 @@ def download_student_work(name, url):
 
 clear_works()
 
-with open('students.csv') as students:
+with open('student.csv') as students:
     read_student = csv.reader(students, delimiter=',')
     for student in read_student:
         print(">>>>>student", student)
